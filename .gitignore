@@ -5,8 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
-loan_management.db
-
+*.db
+test.ipynb
 # Virtual environments
 .venv
 
